@@ -1,0 +1,9 @@
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\s_lawrelu40331\AppData\Local\conda\conda\envs\python=3
+
+
+Proceed ([y]/n)? Invalid choice: $ conda update -n base conda
+Proceed ([y]/n)? 
